@@ -15,7 +15,7 @@ All content is for **professional and educational purposes**.
 
 - **TryHackMe Practice 🏫**  
   Room notes, progress tracking, and key learnings:  
-  [Go to TryHackMe Branch](https://github.com/Jclearns98/CyberSecurity-Homelab/tree/tryhackme)
+  [Go to TryHackMe Branch](https://github.com/Jclearns98/CyberSecurity-Homelab-/blob/tryhackmelabs/README.md)
 
 ---
 

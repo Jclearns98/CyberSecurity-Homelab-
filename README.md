@@ -11,7 +11,7 @@ All content is for **professional and educational purposes**.
 
 - **Homelab Experiments 💻**  
   Detailed notes, lab setups, and screenshots:  
-  [Go to Homelab Branch](https://github.com/Jclearns98/CyberSecurity-Homelab/tree/homelab)
+  [Go to Homelab Branch](https://github.com/Jclearns98/CyberSecurity-Homelab-/blob/homelab/README.md)
 
 - **TryHackMe Practice 🏫**  
   Room notes, progress tracking, and key learnings:  
